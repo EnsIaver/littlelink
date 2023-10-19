@@ -1067,3 +1067,13 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Dungeon Software*/
+.button.button-dungeon {
+  color: #ffffff;
+  background-color: #ffa31a;
+}
+.button.button-zoom:hover,
+.button.button-zoom:focus {
+  filter: brightness(90%);
+}
+
