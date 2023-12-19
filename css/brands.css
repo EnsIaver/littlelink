@@ -1072,8 +1072,8 @@ button:hover,
   color: #ffffff;
   background-color: #ffa31a;
 }
-.button.button-zoom:hover,
-.button.button-zoom:focus {
+.button.button-dungeon:hover,
+.button.button-dungeon:focus {
   filter: brightness(90%);
 }
 
