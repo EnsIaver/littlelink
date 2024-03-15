@@ -255,6 +255,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Course Go */
+.button.button-course-go {
+  color: #FFFFFF;
+  background-color: #00ADD8;
+}
+.button.button-course-go:hover,
+.button.button-course-go:focus {
+  filter: brightness(90%);
+}
+
 /* dev.to */
 .button.button-dev-to {
   color: #000000;
