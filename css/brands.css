@@ -1107,7 +1107,17 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Dungeon Software*/
+/* MUNI */
+.button.button-muni {
+  color: #ffffff;
+  background-color: #0000dc;
+}
+.button.button-muni:hover,
+.button.button-muni:focus {
+  filter: brightness(90%);
+}
+
+/* Dungeon Software */
 .button.button-dungeon {
   color: #ffffff;
   background-color: #ffa31a;
