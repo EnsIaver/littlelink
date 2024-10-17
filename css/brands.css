@@ -1127,3 +1127,12 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Talks */
+.button.button-talks {
+    color: #ffffff;
+    background-color: #8c8fa1;
+}
+.button.button-talks:hover,
+.button.button-talks:focus {
+    filter: brightness(90%);
+}
